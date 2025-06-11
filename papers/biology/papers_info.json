@@ -1,0 +1,48 @@
+{
+  "0709.0025v1": {
+    "title": "Borges Dilemma, Fundamental Laws, and Systems Biology",
+    "authors": [
+      "P Ao"
+    ],
+    "summary": "I reason here that the known folk law in biology that there is no general law\nin biology because of exceptions is false. The (quantitative) systems biology\noffers the potential to solve the Borges Dilemma, by transcending it. There\nhave already a plenty of indications on this trend.",
+    "pdf_url": "http://arxiv.org/pdf/0709.0025v1",
+    "published": "2007-09-01"
+  },
+  "1304.0683v2": {
+    "title": "Quantum Biology at the Cellular Level - elements of the research program",
+    "authors": [
+      "Michael Bordonaro",
+      "Vasily Ogryzko"
+    ],
+    "summary": "Quantum Biology is emerging as a new field at the intersection between\nfundamental physics and biology, promising novel insights into the nature and\norigin of biological order. We discuss several elements of QBCL (Quantum\nBiology at Cellular Level), a research program designed to extend the reach of\nquantum concepts to higher than molecular levels of biological organization.\n  Key words. decoherence, macroscopic superpositions, basis-dependence, formal\nsuperposition, non-classical correlations, Basis-Dependent Selection (BDS),\nsynthetic biology, evolvability mechanism loophole.",
+    "pdf_url": "http://arxiv.org/pdf/1304.0683v2",
+    "published": "2013-04-02"
+  },
+  "cond-mat/9608088v1": {
+    "title": "Landscape Paradigms in Physics and Biology: Introduction and Overview",
+    "authors": [
+      "David Sherrington"
+    ],
+    "summary": "A brief introductory overview in general terms is given of concepts, issues\nand applications of the paradigm of rugged landscapes in the contexts of\nphysics and biology.",
+    "pdf_url": "http://arxiv.org/pdf/cond-mat/9608088v1",
+    "published": "1996-08-21"
+  },
+  "1711.02001v1": {
+    "title": "Mathematics at the eve of a historic transition in biology",
+    "authors": [
+      "Guo-Wei Wei"
+    ],
+    "summary": "A century ago physicists and mathematicians worked in tandem and established\nquantum mechanism. Indeed, algebras, partial differential equations, group\ntheory, and functional analysis underpin the foundation of quantum mechanism.\nCurrently, biology is undergoing a historic transition from qualitative,\nphenomenological and descriptive to quantitative, analytical and predictive.\nMathematics, again, becomes a driving force behind this new transition in\nbiology.",
+    "pdf_url": "http://arxiv.org/pdf/1711.02001v1",
+    "published": "2017-11-06"
+  },
+  "1310.0213v1": {
+    "title": "G-quadruplexes and mRNA localization",
+    "authors": [
+      "Valentina Agoni"
+    ],
+    "summary": "G-quadruplexes represent a novelty for molecular biology. Their role inside\nthe cell remains mysterious. We investigate a possible correlation with mRNA\nlocalization. In particular, we hypothesize that Gquadruplexes influence fluid\ndynamics.",
+    "pdf_url": "http://arxiv.org/pdf/1310.0213v1",
+    "published": "2013-10-01"
+  }
+}

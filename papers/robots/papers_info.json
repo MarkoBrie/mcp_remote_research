@@ -1,0 +1,59 @@
+{
+  "1907.13114v1": {
+    "title": "The Use of Agricultural Robots in Orchard Management",
+    "authors": [
+      "Qin Zhang",
+      "Manoj Karkee",
+      "Amy Tabb"
+    ],
+    "summary": "Book chapter that summarizes recent research on agricultural robotics in\norchard management, including Robotic pruning, Robotic thinning, Robotic\nspraying, Robotic harvesting, Robotic fruit transportation, and future trends.",
+    "pdf_url": "http://arxiv.org/pdf/1907.13114v1",
+    "published": "2019-07-30"
+  },
+  "2208.05095v1": {
+    "title": "Robotics in Snow and Ice",
+    "authors": [
+      "Fran\u00e7ois Pomerleau"
+    ],
+    "summary": "Definition: The terms \"robotics in snow and ice\" refers to robotic systems\nbeing studied, developed, and used in areas where water can be found in its\nsolid state. This specialized branch of field robotics investigates the impact\nof extreme conditions related to cold environments on autonomous vehicles.",
+    "pdf_url": "http://arxiv.org/pdf/2208.05095v1",
+    "published": "2022-08-10"
+  },
+  "2005.07474v1": {
+    "title": "Robot Accident Investigation: a case study in Responsible Robotics",
+    "authors": [
+      "Alan F. T. Winfield",
+      "Katie Winkle",
+      "Helena Webb",
+      "Ulrik Lyngs",
+      "Marina Jirotka",
+      "Carl Macrae"
+    ],
+    "summary": "Robot accidents are inevitable. Although rare, they have been happening since\nassembly-line robots were first introduced in the 1960s. But a new generation\nof social robots are now becoming commonplace. Often with sophisticated\nembedded artificial intelligence (AI) social robots might be deployed as care\nrobots to assist elderly or disabled people to live independently. Smart robot\ntoys offer a compelling interactive play experience for children and\nincreasingly capable autonomous vehicles (AVs) the promise of hands-free\npersonal transport and fully autonomous taxis. Unlike industrial robots which\nare deployed in safety cages, social robots are designed to operate in human\nenvironments and interact closely with humans; the likelihood of robot\naccidents is therefore much greater for social robots than industrial robots.\nThis paper sets out a draft framework for social robot accident investigation;\na framework which proposes both the technology and processes that would allow\nsocial robot accidents to be investigated with no less rigour than we expect of\nair or rail accident investigations. The paper also places accident\ninvestigation within the practice of responsible robotics, and makes the case\nthat social robotics without accident investigation would be no less\nirresponsible than aviation without air accident investigation.",
+    "pdf_url": "http://arxiv.org/pdf/2005.07474v1",
+    "published": "2020-05-15"
+  },
+  "1403.2625v1": {
+    "title": "Pattern Formation for Asynchronous Robots without Agreement in Chirality",
+    "authors": [
+      "Sruti Gan Chaudhuri",
+      "Swapnil Ghike",
+      "Shrainik Jain",
+      "Krishnendu Mukhopadhyaya"
+    ],
+    "summary": "This paper presents a deterministic algorithm for forming a given asymmetric\npattern in finite time by a set of autonomous, homogeneous, oblivious mobile\nrobots under the CORDA model. The robots are represented as points on the 2D\nplane. There is no explicit communication between the robots. The robots\ncoordinate among themselves by observing the positions of the other robots on\nthe plane. Initially all the robots are assumed to be stationary. The robots\nhave local coordinate systems defined by Sense of Direction (SoD), orientation\nor chirality and scale. Initially the robots are in asymmetric configuration.\nWe show that these robots can form any given asymmetric pattern in finite time.",
+    "pdf_url": "http://arxiv.org/pdf/1403.2625v1",
+    "published": "2014-03-11"
+  },
+  "1408.2072v1": {
+    "title": "Formation of General Position by Asynchronous Mobile Robots",
+    "authors": [
+      "S. Bhagat",
+      "S. Gan Chaudhuri",
+      "K. Mukhopadhyaya"
+    ],
+    "summary": "The traditional distributed model of autonomous, homogeneous, mobile point\nrobots usually assumes that the robots do not create any visual obstruction for\nthe other robots, i.e., the robots are see through. In this paper, we consider\na slightly more realistic model, by incorporating the notion of obstructed\nvisibility (i.e., robots are not see through) for other robots. Under the new\nmodel of visibility, a robot may not have the full view of its surroundings.\nMany of the existing algorithms demand that each robot should have the complete\nknowledge of the positions of other robots. Since, vision is the only mean of\ntheir communication, it is required that the robots are in general position\n(i.e., no three robots are collinear). We consider asynchronous robots. They\nalso do not have common chirality (or any agreement on a global coordinate\nsystem). In this paper, we present a distributed algorithm for obtaining a\ngeneral position for the robots in finite time from any arbitrary\nconfiguration. The algorithm also assures collision free motion for each robot.\nThis algorithm may also be used as a preprocessing module for many other\nsubsequent tasks performed by the robots.",
+    "pdf_url": "http://arxiv.org/pdf/1408.2072v1",
+    "published": "2014-08-09"
+  }
+}

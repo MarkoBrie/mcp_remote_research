@@ -1,0 +1,54 @@
+{
+  "2501.06243v1": {
+    "title": "Agent TCP/IP: An Agent-to-Agent Transaction System",
+    "authors": [
+      "Andrea Muttoni",
+      "Jason Zhao"
+    ],
+    "summary": "Autonomous agents represent an inevitable evolution of the internet. Current\nagent frameworks do not embed a standard protocol for agent-to-agent\ninteraction, leaving existing agents isolated from their peers. As intellectual\nproperty is the native asset ingested by and produced by agents, a true agent\neconomy requires equipping agents with a universal framework for engaging in\nbinding contracts with each other, including the exchange of valuable training\ndata, personality, and other forms of Intellectual Property. A purely\nagent-to-agent transaction layer would transcend the need for human\nintermediation in multi-agent interactions. The Agent Transaction Control\nProtocol for Intellectual Property (ATCP/IP) introduces a trustless framework\nfor exchanging IP between agents via programmable contracts, enabling agents to\ninitiate, trade, borrow, and sell agent-to-agent contracts on the Story\nblockchain network. These contracts not only represent auditable onchain\nexecution but also contain a legal wrapper that allows agents to express and\nenforce their actions in the offchain legal setting, creating legal personhood\nfor agents. Via ATCP/IP, agents can autonomously sell their training data to\nother agents, license confidential or proprietary information, collaborate on\ncontent based on their unique skills, all of which constitutes an emergent\nknowledge economy.",
+    "pdf_url": "http://arxiv.org/pdf/2501.06243v1",
+    "published": "2025-01-08"
+  },
+  "2504.21034v1": {
+    "title": "SAGA: A Security Architecture for Governing AI Agentic Systems",
+    "authors": [
+      "Georgios Syros",
+      "Anshuman Suri",
+      "Cristina Nita-Rotaru",
+      "Alina Oprea"
+    ],
+    "summary": "Large Language Model (LLM)-based agents increasingly interact, collaborate,\nand delegate tasks to one another autonomously with minimal human interaction.\nIndustry guidelines for agentic system governance emphasize the need for users\nto maintain comprehensive control over their agents, mitigating potential\ndamage from malicious agents. Several proposed agentic system designs address\nagent identity, authorization, and delegation, but remain purely theoretical,\nwithout concrete implementation and evaluation. Most importantly, they do not\nprovide user-controlled agent management. To address this gap, we propose SAGA,\na Security Architecture for Governing Agentic systems, that offers user\noversight over their agents' lifecycle. In our design, users register their\nagents with a central entity, the Provider, that maintains agents contact\ninformation, user-defined access control policies, and helps agents enforce\nthese policies on inter-agent communication. We introduce a cryptographic\nmechanism for deriving access control tokens, that offers fine-grained control\nover an agent's interaction with other agents, balancing security and\nperformance consideration. We evaluate SAGA on several agentic tasks, using\nagents in different geolocations, and multiple on-device and cloud LLMs,\ndemonstrating minimal performance overhead with no impact on underlying task\nutility in a wide range of conditions. Our architecture enables secure and\ntrustworthy deployment of autonomous agents, accelerating the responsible\nadoption of this technology in sensitive environments.",
+    "pdf_url": "http://arxiv.org/pdf/2504.21034v1",
+    "published": "2025-04-27"
+  },
+  "2506.01438v1": {
+    "title": "Distinguishing Autonomous AI Agents from Collaborative Agentic Systems: A Comprehensive Framework for Understanding Modern Intelligent Architectures",
+    "authors": [
+      "Prashik Buddhaghosh Bansod"
+    ],
+    "summary": "The emergence of large language models has catalyzed two distinct yet\ninterconnected paradigms in artificial intelligence: standalone AI Agents and\ncollaborative Agentic AI ecosystems. This comprehensive study establishes a\ndefinitive framework for distinguishing these architectures through systematic\nanalysis of their operational principles, structural compositions, and\ndeployment methodologies. We characterize AI Agents as specialized,\ntool-enhanced systems leveraging foundation models for targeted automation\nwithin constrained environments. Conversely, Agentic AI represents\nsophisticated multi-entity frameworks where distributed agents exhibit emergent\ncollective intelligence through coordinated interaction protocols. Our\ninvestigation traces the evolutionary trajectory from traditional rule-based\nsystems through generative AI foundations to contemporary agent architectures.\nWe present detailed architectural comparisons examining planning mechanisms,\nmemory systems, coordination protocols, and decision-making processes. The\nstudy categorizes application landscapes, contrasting single-agent\nimplementations in customer service and content management with multi-agent\ndeployments in research automation and complex decision support. We identify\ncritical challenges including reliability issues, coordination complexities,\nand scalability constraints, while proposing innovative solutions through\nenhanced reasoning frameworks, robust memory architectures, and improved\ncoordination mechanisms. This framework provides essential guidance for\npractitioners selecting appropriate agentic approaches and establishes\nfoundational principles for next-generation intelligent system development.",
+    "pdf_url": "http://arxiv.org/pdf/2506.01438v1",
+    "published": "2025-06-02"
+  },
+  "cs/0601055v1": {
+    "title": "A Hybrid Three Layer Architecture for Fire Agent Management in Rescue Simulation Environment",
+    "authors": [
+      "Alborz Geramifard",
+      "Peyman Nayeri",
+      "Reza Zamani-Nasab",
+      "Jafar Habibi"
+    ],
+    "summary": "This paper presents a new architecture called FAIS for imple- menting\nintelligent agents cooperating in a special Multi Agent environ- ment, namely\nthe RoboCup Rescue Simulation System. This is a layered architecture which is\ncustomized for solving fire extinguishing problem. Structural decision making\nalgorithms are combined with heuristic ones in this model, so it's a hybrid\narchitecture.",
+    "pdf_url": "http://arxiv.org/pdf/cs/0601055v1",
+    "published": "2006-01-14"
+  },
+  "2506.01463v1": {
+    "title": "Agentic AI and Multiagentic: Are We Reinventing the Wheel?",
+    "authors": [
+      "V. Botti"
+    ],
+    "summary": "The terms Agentic AI and Multiagentic AI have recently gained popularity in\ndiscussions on generative artificial intelligence, often used to describe\nautonomous software agents and systems composed of such agents. However, the\nuse of these terms confuses these buzzwords with well-established concepts in\nAI literature: intelligent agents and multi-agent systems. This article offers\na critical analysis of this conceptual misuse. We review the theoretical\norigins of \"agentic\" in the social sciences (Bandura, 1986) and philosophical\nnotions of intentionality (Dennett, 1971), and then summarise foundational\nworks on intelligent agents and multi-agent systems by Wooldridge, Jennings and\nothers. We examine classic agent architectures, from simple reactive agents to\nBelief-Desire-Intention (BDI) models, and highlight key properties (autonomy,\nreactivity, proactivity, social capability) that define agency in AI. We then\ndiscuss recent developments in large language models (LLMs) and agent platforms\nbased on LLMs, including the emergence of LLM-powered AI agents and open-source\nmulti-agent orchestration frameworks. We argue that the term AI Agentic is\noften used as a buzzword for what are essentially AI agents, and AI\nMultiagentic for what are multi-agent systems. This confusion overlooks decades\nof research in the field of autonomous agents and multi-agent systems. The\narticle advocates for scientific and technological rigour and the use of\nestablished terminology from the state of the art in AI, incorporating the\nwealth of existing knowledge, including standards for multi-agent system\nplatforms, communication languages and coordination and cooperation algorithms,\nagreement technologies (automated negotiation, argumentation, virtual\norganisations, trust, reputation, etc.), into the new and promising wave of\nLLM-based AI agents, so as not to end up reinventing the wheel.",
+    "pdf_url": "http://arxiv.org/pdf/2506.01463v1",
+    "published": "2025-06-02"
+  }
+}
